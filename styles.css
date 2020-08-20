@@ -1,5 +1,12 @@
+@font-face {
+    font-family: 'Noto Sans HK', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@500&display=swap');
+  }
+
+
 body {
     background-color: black;
+    font-family: 'Noto Sans HK', sans-serif;
 }
 
 .flip {
